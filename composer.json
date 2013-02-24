@@ -1,13 +1,13 @@
 {
-    "name": "adamquadmon/PHPThumb",
+    "name": "masterexploder/PHPThumb",
     "description": "PHP Thumb is a light-weight image manipulation library aimed at thumbnail generation.",
     "license": "MIT license",
     "autoload": {
         "psr-0": {
-            "PHPThumb": "library/"
+            "PHPThumb": "src/"
         }
     },
     "include-path": [
-        "library/"
+        "src/"
     ]
 }
